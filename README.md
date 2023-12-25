@@ -1,41 +1,24 @@
+![Header](./your-header-image-name.png)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGl0d2cxMzVteG40dXlzNWFxNXZrYjd5dmY1bGthcjB6dXlmdmwwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ah3zHH7hvsSB2/giphy.gif" width="160"
-</div>
-  <div>
-    <a href="www.linkedin.com/in/pawan-s-b542631a0">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  </div>
-  <div>
-    <a href="https://youtube.com">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  </div>
-<div>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-  
-  
-<img src="https://komarev.com/ghpvc/?username=pks21g&style=flat-square&color=blue" alt=""/>
-<div id="header" align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50vw"/>
-</div>
+### Hello there *:man:*
+#### My name is Pawan, I live in the US 🌎
 
-🔭 I’m currently working on ...
-<!--
-**pks21g/pks21g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a react project
+- 🌱 I’m currently learning whatever I can...
+- 👯 I’m looking to collaborate on projects...
+- ⚡ Fun fact: I like to play musical instruments 🎸, travel and photography 📸.
+<hr>
 
-Here are some ideas to get you started:
+#### Connect with me:
+[![My Skills](https://skillicons.dev/icons?i=linkedin,stackoverflow)](https://skillicons.dev)
 
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Skills 
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,maven,postman,spring,docker,js,react,nodejs,jest&theme=light)](https://skillicons.dev) <br/><br/>
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,html,css,sass,bootstrap,figma,git,github&theme=light)](https://skillicons.dev)
+
+#### Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pks21g&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+

@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image-name.png)
 
 ### Hello there *:man:*
 #### My name is Pawan, I live in the US 🌎

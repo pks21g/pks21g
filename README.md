@@ -1,4 +1,6 @@
-![Header](github-header-image.png)
+
+<img src="github-header-image.png" width="100%"/>
+
 ### Hello there *:man:*
 #### My name is Pawan, I live in the US 🌎
 
